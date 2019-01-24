@@ -7,6 +7,5 @@ urllib3
 SOAPpy
 cryptography
 M2Crypto
---upgrade setupext-pip
 signxml==1.0.1
 
